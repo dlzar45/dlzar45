@@ -7,11 +7,7 @@
 
 - 👨‍💻 All of my projects will be available at [https://github.com/dlzar45](https://github.com/dlzar45)
 
-- 📝 I regularly write articles on [https://www.facebook.com/dlzar.pshtiwan](https://www.facebook.com/dlzar.pshtiwan)
-
 - 💬 Ask me about **C#, Flutter, PHP**
-
-- 📫 How to reach me **dlzarcr55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +41,4 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-</p>
-<p align="right">
-  <img src="https://media.giphy.com/media/3oKIP9HB6YQ2d1RjaY/giphy.gif" alt="coding" width="200"/>
 </p>
