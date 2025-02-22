@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dlzar Pshtiwan</h1>
-<h3 align="center">I'm a Mobile Application Developer</h3>
 
 <br>
 
 - 🌱 I’m currently learning a **Full Stack Developer**
 
-- 👨‍💻 All of my projects will be available at [https://github.com/dlzar45](https://github.com/dlzar45)
-
-- 💬 Ask me about **C#, Flutter, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
